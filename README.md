@@ -34,13 +34,13 @@
 1. 開啟終端機(Terminal) 或 (Git Bash) 到欲存放專案的本機位置並執行:
 
 ```
-git clone https://github.com/Al-tsao/restaurant_list.git
+git https://github.com/Al-tsao/Restaurant_List_Project_V2.git
 ```
 
 2. 開啟終端機(Terminal) 或 (Git Bash)，進入到存放此專案的資料夾
 
 ```
-cd restaurant-list-master
+cd Restaurant_List_Project_V2-master
 ```
 
 3. 安裝 npm 套件
